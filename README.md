@@ -1,4 +1,4 @@
-# INTERACTIVE-QUIZ-APPLICATION
+# Real-Time Chat Application 💬
 
 COMPANY: CODTECH IT SOLUTIONS
 
@@ -12,13 +12,12 @@ DURATION: 16 WEEEKS
 
 MENTOR: NEELA SANTOSH
 
-##YOU HAVE TO ENTER DESCRIOTON OF YOUR TASK (AND IT SHOULD NOT BE LESS THAN 500 WORDS)
 
-# Real-Time Chat Application 💬
+# Introduction
 
 The Real-Time Chat Application is a modern, feature-rich communication platform built with cutting-edge web technologies to facilitate instant messaging between users across the globe. This application represents a perfect blend of functionality, user experience, and technical sophistication, designed to provide seamless real-time communication in both personal and professional contexts. With its intuitive interface and robust architecture, the chat application serves as an exemplary implementation of contemporary web development practices, showcasing the power of real-time data synchronization and responsive design.
 
-Core Architecture and Technology Stack
+# Core Architecture and Technology Stack
 
 At its foundation, the application employs a client-server architecture powered by React on the frontend and Node.js with Socket.io on the backend. This combination ensures lightning-fast message delivery through WebSocket connections, eliminating the traditional request-response cycle limitations of HTTP protocols. The frontend utilizes React's component-based architecture, allowing for modular, maintainable code that efficiently manages state and user interface updates. Socket.io provides the crucial real-time bidirectional communication layer, enabling instant message propagation, typing indicators, and user presence updates without page refreshes or manual reloading.
 
